@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loliie-I&show_icons=true&hide_title=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliie-I&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lumiio&show_icons=true&hide_title=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiio&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
